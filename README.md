@@ -119,6 +119,19 @@ Using **NLTK's VADER**, review texts were analyzed and classified:
 
 ---
 
-## 📌 Live Preview
+## 🖥️ Dashboard Preview
+
+### 📌 Overview Page
+![Overview](./imgs/Overview.png)
+
+### 🔄 Conversion Funnel
+![Conversion](./imgs/Conversion.png)
+
+### 📣 Social Media Performance
+![Social Media](./imgs/SocialMedia.png)
+
+### 💬 Customer Reviews & Sentiment
+![Customer Reviews](./imgs/CustomerReviews.png)
+
 
 
